@@ -1,0 +1,31 @@
+title: Salesforce Developer Group Tokyo
+description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+
+url: https://github.com/sfdgtokyo
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:year-:month-:day-:title/
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: Articles
+   url: /articles
+ - title: Meetup
+   url: https://www.meetup.com/ja-JP/preview/Tokyo-Salesforce-Developer-Group
+ - title: Trailblazer Community
+   url: https://success.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F9300000001oWJ
+ - title: About
+   url: /about
+
+social:
+   github: sfdgtokyo
+   twitter: SfdgTokyo
+   facebook: groups/salesforcedugjapan/
+
+google_analytics: ""
