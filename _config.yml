@@ -1,7 +1,7 @@
 title: Salesforce Developer Group Tokyo
 description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
 
-url: https://github.com/sfdgtokyo
+url: https://sfdg.tokyo
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:year-:month-:day-:title/
