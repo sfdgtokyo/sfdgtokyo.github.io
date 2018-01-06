@@ -27,3 +27,5 @@ title: About Us
 		<li><a href="https://success.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F9300000001oWJ" target="\_blank">Trailblazer Community</a></li>
 	</ul>
 </div>
+
+{% include share.html %}

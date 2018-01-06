@@ -2,7 +2,6 @@
 layout: default
 title: Salesforce Developer Group Articles
 ---
-
 <div id="articles">
   <h1>Articles</h1>
   <ul class="posts noList">
@@ -15,3 +14,5 @@ title: Salesforce Developer Group Articles
     {% endfor %}
   </ul>
 </div>
+
+{% include share.html %}
