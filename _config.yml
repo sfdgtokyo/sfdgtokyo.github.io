@@ -1,14 +1,19 @@
 title: Salesforce Developer Group Tokyo
 description: Force.comやHerokuなど、Salesforce Platformを使って開発する開発者の情報共有と交流のためのグループ
+lang: ja
 
 url: https://sfdg.tokyo
+author: Salesforce Developer Group Tokyo
+logo: assets/img/logo.jpg
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:year-:month-:day-:title/
 
 markdown: kramdown
 highlighter: rouge
-plugins: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
+  - jekyll-seo-tag
 paginate: 5
 
 navigation:
@@ -27,5 +32,13 @@ social:
    github: sfdgtokyo
    twitter: SfdgTokyo
    facebook: groups/salesforcedugjapan
+   name: Salesforce Developer Group Tokyo
+   links:
+     - https://github.com/sfdgtokyo
+     - https://twitter.com/SfdgTokyo
+     - https://www.facebook.com/groups/salesforcedugjapan
+
+twitter:
+  username: SfdgTokyo
 
 google_analytics: "UA-109185178-1"
