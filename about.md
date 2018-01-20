@@ -6,7 +6,7 @@ title: About Us
 <div class="post">
 	<h1 class="pageTitle">About Us</h1>
 	<img src="{{ '/assets/img/logo.jpg' | prepend: site.baseurl }}" alt="">
-	<p>Salesforce Platformの Developer（in Japan）が集まって、会社の枠を超えて繋がっていくコミュニティです。</p>
+	<p>Salesforce Platformの Developer（in Tokyo）が集まって、会社の枠を超えて繋がっていくコミュニティです。</p>
 
 	<h2>コミュニティの目指すところ</h2>
 	<p>こんなところを目指して、日々精進して参ります。</p>
@@ -26,6 +26,11 @@ title: About Us
 		<li>各種もくもく会</li>
 		<li><a href="https://success.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F9300000001oWJ" target="\_blank">Trailblazer Community</a></li>
 	</ul>
+
+	<h2>関連コミュニティ情報</h2>
+	<div><a href="https://www.trailblazers.jp/" target="\_blank">Salesforce Trailblazers Community</a> のWebサイトで日本のセールスフォース関連のユーザーコミュニティを探すことができます。開催されるイベント情報も掲載されていますので、ぜひウォッチしてみてください。</div>
+
+	<a href="https://www.trailblazers.jp/"><img src="/assets/img/Salesforce Trailblazers Community.png" alt="Salesforce Trailblazers Community"/></a>
 </div>
 
 {% include share.html %}
