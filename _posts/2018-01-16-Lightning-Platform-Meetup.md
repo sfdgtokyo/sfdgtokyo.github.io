@@ -40,6 +40,8 @@ Looking Forward Statementsでしたが、少し先のロードマップなどを
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">開発してみたLTからのUnitテストLT！ <a href="https://twitter.com/hashtag/sfdg?src=hash&amp;ref_src=twsrc%5Etfw">#sfdg</a> <a href="https://t.co/MqaJtruCNV">pic.twitter.com/MqaJtruCNV</a></p>&mdash; Salesforce DG Tokyo (@SfdgTokyo) <a href="https://twitter.com/SfdgTokyo/status/953224324525125632?ref_src=twsrc%5Etfw">2018年1月16日</a></blockquote>
 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/orNfBv3XIv4HC9" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
 ### mySalesforceブランドカラー適用を調べる！
 
 #### 中山 純子さん、Naoko Eikiさん（Salesforce女子部）
