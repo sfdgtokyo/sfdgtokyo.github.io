@@ -28,6 +28,8 @@ Looking Forward Statementsでしたが、少し先のロードマップなどを
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">LTはじまりました！ <a href="https://twitter.com/hashtag/sfdg?src=hash&amp;ref_src=twsrc%5Etfw">#sfdg</a> <a href="https://t.co/fzV5kOs53C">pic.twitter.com/fzV5kOs53C</a></p>&mdash; Salesforce DG Tokyo (@SfdgTokyo) <a href="https://twitter.com/SfdgTokyo/status/953218472082747392?ref_src=twsrc%5Etfw">2018年1月16日</a></blockquote>
 
+<a href="https://www.slideshare.net/secret/ySwgWKvtGmajIj" target="\_blank"><img src="{{ '/assets/img/posts/2018-01-16-robotenashi.png' | prepend: site.baseurl }}" alt="ROBOTENASHI"></a>
+
 ### ApexとVFしかやったことない人間がLightningを1週間でやってみた！
 
 #### Kazuki Mizoguchiさん（Nothernforce）
