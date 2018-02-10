@@ -21,8 +21,10 @@ navigation:
    url: /index.html
  - title: Articles
    url: /articles
+ - title: Advent Calendar
+   url: /adventcalendar
  - title: Meetup.com
-   url: https://www.meetup.com/ja-JP/preview/Tokyo-Salesforce-Developer-Group
+   url: https://www.meetup.com/ja-JP/Tokyo-Salesforce-Developer-Group
  - title: Trailblazer Community
    url: https://success.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F9300000001oWJ
  - title: About
