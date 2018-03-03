@@ -65,13 +65,15 @@ Salesforce Spring'18がリリースされました。これまではリリース
 [アクセンチュア株式会社](https://www.accenture.com/jp-ja/new-applied-now)の[小坂(@shunkosa)](https://twitter.com/shunkosa)さんからオムニチャネルについて話してもらいました。Service Cloud をやらないと触れることがあまりない CTI やルーティングの話など奥深い話を聴くことができました。[External Routing for Omni-Channel (Beta)](https://developer.salesforce.com/docs/atlas.en-us.omni_channel_dev.meta/omni_channel_dev/omnichannel_external_routing.htm)が新しい機能なんですね。
 
 いやぁ、面白かった。
+
+<script async class="speakerdeck-embed" data-id="3b00448afc7c49a384799912734f1711" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 <br/>
 
 # まとめ
 
 開催中のツイートまとめは[こちら](https://togetter.com/li/1204384)です。
 <br/>
-今回は久しぶりにアンケートを取ってみました。参加者の実に 40% の方が RANGER ランクを獲得されていてかなり特異点な感じがします（汗）。
+今回は久しぶりにアンケートを取ってみました。参加者の実に 40% の方が RANGER ランクを獲得されていて、参加者の分布自体がかなり特異点な感じがします（汗）。
 
 アンケートの結果を見ると満足されている割合が多いように感じました。前回からの比較などができないのでなんとも言えないところですが、今回の LT 中心にする試みが良い方向に影響を与えていればいいなぁ、と思いました。
 
