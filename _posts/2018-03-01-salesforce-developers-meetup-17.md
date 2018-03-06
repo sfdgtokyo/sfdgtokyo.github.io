@@ -48,6 +48,9 @@ Salesforce Spring'18がリリースされました。これまではリリース
 
 [株式会社ウフル](https://uhuru.co.jp/)の萩野さんからVisualforceからExcelを出力する方法について話してもらいました。画像の差し込み、罫線を引く、背景色やヘッダ／フッタを設定する、などいろいろできるようです。
 
+LTの内容をまとめたQiita記事はこちらになります。<br/>
+[VF帳票出力Tips Excel編](https://qiita.com/k-o/items/f095b6580b9686865a7a)
+
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">VFからExcel出力の方法を模索。ExcelBuilder.jsは残念ながらメンテ終了 <a href="https://t.co/yTlX11v4tM">https://t.co/yTlX11v4tM</a> <a href="https://twitter.com/hashtag/sfdg?src=hash&amp;ref_src=twsrc%5Etfw">#sfdg</a></p>&mdash; Shingo Yamazaki (@zaki___yama) <a href="https://twitter.com/zaki___yama/status/969160537891196928?ref_src=twsrc%5Etfw">2018年3月1日</a></blockquote>
 <br/>
 
