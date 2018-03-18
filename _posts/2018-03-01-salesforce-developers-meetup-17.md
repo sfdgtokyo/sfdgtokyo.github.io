@@ -72,6 +72,12 @@ LTの内容をまとめたQiita記事はこちらになります。<br/>
 <script async class="speakerdeck-embed" data-id="3b00448afc7c49a384799912734f1711" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 <br/>
 
+# イベント参加ブログ
+
+今回のイベントに関連するブログ記事はこちらです（ブログ投稿など追記しますのでご連絡ください）。
+
+- [Salesforce Developers Meetup #17 LT登壇観戦レポート - TeamSpirit Developer Blog](http://teamspirit.hatenablog.com/entry/2018/03/12/144445)
+
 # まとめ
 
 開催中のツイートまとめは[こちら](https://togetter.com/li/1204384)です。
