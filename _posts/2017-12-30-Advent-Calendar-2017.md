@@ -3,6 +3,8 @@ layout: post
 title:  "Salesforce Platform Advent Calendar 2017"
 date:   2017-12-30
 image: 2017-12-30-Advent-Calendar-2017.png
+author: Akira Kuratani
+twitter: a_kuratani
 ---
 
 <p class="intro"><span class="dropcap">今</span>年も技術系アドベントカレンダーに Salesforce 勢として参加し、完走できました！<a href="https://qiita.com/advent-calendar/2017/salesforce-platform">Salesforce Platform Advent Calendar 2017</a>に参加していただいた皆さま、お疲れさまでした＆ありがとうございました。</p>

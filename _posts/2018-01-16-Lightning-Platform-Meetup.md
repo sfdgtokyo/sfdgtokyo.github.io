@@ -3,6 +3,8 @@ layout: post
 title:  "Lightning Platform Meetup(2018/01/16)"
 date:   2018-01-16
 image: 2018-01-16-Lightning-Platform-Meetup.jpg
+author: Akira Kuratani
+twitter: a_kuratani
 ---
 
 <p class="intro"><span class="dropcap">L</span>ightning Now Tour Japan 2018に合わせて<a href="https://www.meetup.com/ja-JP/Tokyo-Salesforce-Developer-Group/events/246190007/" target="\_blank">Lightning Platform Meetup</a>を2018年1月16日に開催しました！年末のうちに部屋が拡張できないようにリフォームされているトラブルもありましたが、なんとか椅子を並べて大勢の方に参加していただくことができました。</p>

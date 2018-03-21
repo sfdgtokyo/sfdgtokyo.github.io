@@ -3,6 +3,8 @@ layout: post
 title:  "Dreamforce4U"
 date:   2017-12-13
 image: 2017-12-13-dreamforce4u.jpg
+author: Akira Kuratani
+twitter: a_kuratani
 ---
 
 [Salesforce Basecamp Tokyo](https://www.salesforce.com/jp/campaign/basecamp17/) に合わせて、2017年12月13日(水)[Tokyo Salesforce Developer Group](https://www.meetup.com/ja-JP/preview/Tokyo-Salesforce-Developer-Group)主催「[Dreamfroce4U](https://www.meetup.com/ja-JP/preview/Tokyo-Salesforce-Developer-Group/events/243973719/)」を開催いたしました！

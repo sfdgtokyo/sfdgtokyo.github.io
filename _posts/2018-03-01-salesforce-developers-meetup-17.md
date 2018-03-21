@@ -3,6 +3,8 @@ layout: post
 title:  "Salesforce Developers Meetup #17"
 date:   2018-03-01
 image: 2018-03-01-meetup.jpg
+author: Akira Kuratani
+twitter: a_kuratani
 ---
 
 <p class="intro"><span class="dropcap">S</span>alesforce Developer Group Tokyo主催で2018年3月1日(木)に「<a href="https://www.meetup.com/ja-JP/Tokyo-Salesforce-Developer-Group/events/247136464/" target="\_blank">Salesforce Developers Meetup #17</a>」を開催しました。</p>

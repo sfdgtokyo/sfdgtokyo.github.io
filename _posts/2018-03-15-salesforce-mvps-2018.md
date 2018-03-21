@@ -3,6 +3,8 @@ layout: post
 title:  "Salesforce MVPs 2018"
 date:   2018-03-15
 image: 2018-03-15-salesforce-mvps-2018.png
+author: Akira Kuratani
+twitter: a_kuratani
 ---
 
 <p class="intro"><span class="dropcap">S</span>alesforce MVP が発表されました。日本から新たに3名の方が選出され、総勢11名になりました。</p>

@@ -3,6 +3,8 @@ layout: post
 title:  "Salesforce Saturday - TrailheadChallenge"
 date:   2017-10-28
 image: 2017-10-28-trailhead-challenge.png
+author: Akira Kuratani
+twitter: a_kuratani
 ---
 
 <p class="intro"><span class="dropcap">S</span>alesforce Saturday はご存知でしょうか？土曜日に集まって Salesforce をみんなで勉強しようというムーブメントです。</p>
