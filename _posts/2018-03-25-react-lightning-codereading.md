@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "React-Lighning コードリーディングの会"
+title:  "React-Lighning コードリーディングの会(2018/03/15)"
 date:   2018-03-25
 image: 2018-03-25-react-lightning-codereading.jpg
 author: Akira Kuratani

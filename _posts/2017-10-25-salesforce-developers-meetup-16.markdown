@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Salesforce Developers Meetup #16"
+title:  "Salesforce Developers Meetup #16(2017/10/25)"
 date:   2017-10-25
 image: 2017-10-25-meetup.jpg
 author: Akira Kuratani
