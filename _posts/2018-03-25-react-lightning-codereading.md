@@ -5,7 +5,7 @@ date:   2018-03-25
 image: 2018-03-25-react-lightning-codereading.jpg
 ---
 
-<p class="intro"><span class="dropcap">R</span>eact-Lightning コードリーディングの会を2018年3月15日に React-Lightning の作者である <a href="https://twitter.com/stomita" target="\_blank">@stomita</a> さんを招いて開催しました。</p>
+<p class="intro"><a href="https://www.meetup.com/ja-JP/Tokyo-Salesforce-Developer-Group/events/248247820/" target="\_blank"><span class="dropcap">R</span>eact-Lightning コードリーディングの会</a>を2018年3月15日に React-Lightning の作者である <a href="https://twitter.com/stomita" target="\_blank">@stomita</a> さんを招いて開催しました。</p>
 
 ## React-Lightning
 
