@@ -81,7 +81,7 @@ twitter: yonet77
 
 ["Code Coverage"](https://www.codecoverage.org/)というPodcastを活動しているMatt Laceyさんがメインスピーカーで、そのほかDan ApplemanさんなどDev系のエキスパートな方々がパネリストとして参加するセッションでした。
 
-途中、Reduxの外用にも触れながら、["Lighting-Redux"](https://github.com/madmax983/lightning-redux)を紹介しつつ([DF16でのセッション:Lightning Components and Redux](https://www.youtube.com/watch?v=94ZkxJX3w_0)も併せて参考に)、Salesforce上でSPAを作る上で実践的な内容を紹介していた...と思いますが、正直なところ僕の英語力では理解が追いつきませんでした。（そして時差ボケのせいか意識も時々失ってました）
+途中、Reduxの概要にも触れながら、["Lighting-Redux"](https://github.com/madmax983/lightning-redux)を紹介しつつ([DF16でのセッション:Lightning Components and Redux](https://www.youtube.com/watch?v=94ZkxJX3w_0)も併せて参考に)、Salesforce上でSPAを作る上で実践的な内容を紹介していた...と思いますが、正直なところ僕の英語力では理解が追いつきませんでした。（そして時差ボケのせいか意識も時々失ってました）
 
 ## 所感
 
