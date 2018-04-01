@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TrailheaDX(2日目)(2018/03/29)"
-date:   2018-03-28
+date:   2018-03-29
 image: 2018-03-28-tdx18-top.png
 author: Takahiro Yonei
 twitter: yonet77
