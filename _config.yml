@@ -23,10 +23,12 @@ navigation:
    url: /articles
  - title: Advent Calendar
    url: /adventcalendar
- - title: Meetup.com
-   url: https://www.meetup.com/ja-JP/Tokyo-Salesforce-Developer-Group
- - title: Trailblazer Community
+ - title: Events
+   url: https://trailblazercommunitygroups.com/tokyo-jp-developers-group/
+ - title: Community
    url: https://success.salesforce.com/_ui/core/chatter/groups/GroupProfilePage?g=0F9300000001oWJ
+ - title: Slack
+   url: https://slackin-tokyosalesforcedg.herokuapp.com/
  - title: About
    url: /about
 
