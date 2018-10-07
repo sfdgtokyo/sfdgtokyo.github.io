@@ -18,7 +18,7 @@ title: About Us
 	</ol>
 
 	<h2>活動</h2>
-	イベントの開催告知は<a href="http://www.meetup.com/ja-JP/Tokyo-Salesforce-Developer-Group/" target="\_blank">meetup.com</a>で！
+	イベントの開催告知は<a href="https://trailblazercommunitygroups.com/tokyo-jp-developers-group/" target="\_blank">Trailblazer Community Groups</a>で！
 	<ul>
   	<li>新年会</li>
   	<li>Meetup(年3回以上)</li>
