@@ -75,6 +75,8 @@ Salesforce Winter'19がリリースされました。今回も前回に引き続
 
 ### 明石さん：Einsteinで予測
 
+<a href="https://www.slideshare.net/ssuserd225f0" target="\_blnak"><img src="{{ '/assets/img/posts/2018-10-30-einstein-prediction.jpg' | prepend: site.baseurl }}" alt="Salesforce World Tour Tokyo" style="width:80%"/></a><br/><strong> <a href="//www.slideshare.net/secret/N7JkzvCpzayUzB" title="Einsteinで予測" target="\_blank">Einsteinで予測</a> </strong> from <strong><a href="https://www.slideshare.net/ssuserd225f0" target="\_blank">真仁 明石</a></strong> </div>
+
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">いちおう、Einsteinのトライアル組織あります！<a href="https://twitter.com/hashtag/sfdg?src=hash&amp;ref_src=twsrc%5Etfw">#sfdg</a> <br>リードスコアリングが付属する Trailhead Playground へのサインアップ 単元 | Salesforce <a href="https://t.co/goYKFLMUlH">https://t.co/goYKFLMUlH</a></p>&mdash; Takahito Miyamoto (@takahito0508) <a href="https://twitter.com/takahito0508/status/1057238276430417920?ref_src=twsrc%5Etfw">2018年10月30日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br/>
