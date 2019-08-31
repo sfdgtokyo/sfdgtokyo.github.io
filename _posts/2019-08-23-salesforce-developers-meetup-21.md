@@ -41,6 +41,10 @@ Summer '19 でリリースされた新機能を中心に、開発者向けのお
 
 ベイシスの長谷川さんより、[KonaSearch](https://appexchangejp.salesforce.com/appxListingDetail?listingId=a0N3A00000FeG81UAF)のご紹介とアーキテクチャの概説。自社サービスとして検索インデックスを抱えており、Org を跨いだ検索もできるようで大変興味深かったです。Saleforceの標準機能でも統合検索がありますが、より規模の大きな、または、様々な統合をターゲットにされているのかなという印象を持ちました。
 
+登壇資料 : 
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/8xwz7cBXUmUe2U" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/junichih/solr-salesforce" title="Solr と自然言語処理によるSalesforce のディープサーチ" target="_blank">Solr と自然言語処理によるSalesforce のディープサーチ</a> </strong> from <strong><a href="https://www.slideshare.net/junichih" target="_blank">Junichi Hasegawa</a></strong> </div>
+<br/>
+
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">日本語検索は鬼門<a href="https://twitter.com/hashtag/sfdg?src=hash&amp;ref_src=twsrc%5Etfw">#sfdg</a> <a href="https://t.co/ABXRMy50Ku">pic.twitter.com/ABXRMy50Ku</a></p>&mdash; Ryosuke Kobayashi (@ryosuke921186) <a href="https://twitter.com/ryosuke921186/status/1164850318145798144?ref_src=twsrc%5Etfw">August 23, 2019</a></blockquote>
 <br/>
 
