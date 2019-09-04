@@ -76,6 +76,11 @@ USE の畑本さんから、変更データキャプチャと非同期Apex ト�
 
 Jenio の石井さんより、機械学習領域でホットな論文、提供中のサービスや、API エコシステムなど様々なトピックでお話しいただきました。Chief Scientist のRichard Socher さんは9月のWorld Tour Tokyoで来日されますね。Don't miss it!
 
+
+登壇資料:
+<script async class="speakerdeck-embed" data-id="af6e588bec3c4b6194b71dae70700ca7" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+</br>
+
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">今日最後に登壇されてた石井さん主催のコミュニティ。<br>動画も配信されてるみたいなので帰りの電車で見ながら帰る<a href="https://twitter.com/hashtag/sfdg?src=hash&amp;ref_src=twsrc%5Etfw">#sfdg</a><a href="https://t.co/6OGc2LgXQI">https://t.co/6OGc2LgXQI</a></p>&mdash; ちきすけ (@chksk__c) <a href="https://twitter.com/chksk__c/status/1164883319059668993?ref_src=twsrc%5Etfw">August 23, 2019</a></blockquote>
 <br/>
 
