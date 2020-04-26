@@ -11,6 +11,8 @@ title: Advent Calenar
 
 	<h2>これまでのアドベントカレンダー</h2>
 	<ol>
+		<li><a href="https://qiita.com/advent-calendar/2019/salesforce-platform" tartget="\_blank">Salesforce Platform Advent Calendar 2019</a></li>
+		<li><a href="https://qiita.com/advent-calendar/2018/salesforce-platform" tartget="\_blank">Salesforce Platform Advent Calendar 2018</a></li>
 		<li><a href="https://qiita.com/advent-calendar/2017/salesforce-platform" tartget="\_blank">Salesforce Platform Advent Calendar 2017</a></li>
     <li><a href="http://qiita.com/advent-calendar/2016/salesforce-app-cloud" tartget="\_blank">Salesforce App Cloud Advent Calendar 2016</a></li>
     <li><a href="http://qiita.com/advent-calendar/2015/salesforce-app-cloud" tartget="\_blank">Salesforce App Cloud Advent Calendar 2015</a></li>
