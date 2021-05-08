@@ -48,7 +48,7 @@ GEM
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.6)
-    rb-fsevent (0.10.4)
+    rb-fsevent (0.11.0)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.5)
@@ -77,4 +77,4 @@ DEPENDENCIES
   support-for
 
 BUNDLED WITH
-   2.2.3
+   2.2.17
