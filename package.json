@@ -9,12 +9,13 @@
   "author": "Brian Maier Jr.",
   "license": "MIT",
   "devDependencies": {
-    "browser-sync": "^2.27.4",
+    "browser-sync": "^2.27.7",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^8.0.0",
     "gulp-cssnano": "^2.1.3",
-    "gulp-sass": "^5.0.0",
-    "js-yaml": "^4.1.0"
+    "gulp-sass": "^5.1.0",
+    "js-yaml": "^4.1.0",
+    "sass": "^1.49.7"
   },
   "repository": {
     "type": "git",
