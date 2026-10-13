@@ -44,8 +44,8 @@ TrailheaDX は今年もサンフランシスコで開催されました。これ
 
 #### Tokyo Salesforce Developer Group(Takahiro Yonei)
 - [TrailheaDX(1日目)(2018/03/28)
-](https://sfdg.tokyo/blog/2018-03-28-TrailheaDX-1st-day/)
-- [TrailheaDX(2日目)(2018/03/29)](https://sfdg.tokyo/blog/2018-03-29-TrailheaDX-2nd-day/)
+](https://sfdgtokyo.github.io/blog/2018-03-28-TrailheaDX-1st-day/)
+- [TrailheaDX(2日目)(2018/03/29)](https://sfdgtokyo.github.io/blog/2018-03-29-TrailheaDX-2nd-day/)
 
 ### ツイート
 
